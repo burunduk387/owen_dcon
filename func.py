@@ -1,4 +1,3 @@
-import serial
 def calc_chk(s):
     sum = 0
     for c in s:
